@@ -11,6 +11,18 @@
    ```bash
    pip install -r requirements.txt
     ```
+## Dataset
+The dataset used in this project is the [Amazon Stock Market Data (2015-2024) 📈](https://www.kaggle.com/datasets/itzusama/amazon-stock-market-data-2015-2024) from Kaggle. The dataset contains 2498 rows the following columns:
+
+- Date
+- Open
+- High
+- Low
+- Close
+- Adj Close
+- Volume
+- Price
+
 ## Running the Notebook
 1. Launch the Jupyter Notebook server:
 
