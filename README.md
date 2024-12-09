@@ -2,7 +2,7 @@
 - [Github Repo](https://github.com/iAnisdev/final_ms_ai_data_analytics)
 
 ## Prerequisites
-- **Python Version**: Python 3.11.x
+- **Python Version**: Python 3.12.4
 
 ## Installation
 1. Clone or download the repository to your local machine.
